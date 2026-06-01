@@ -2,13 +2,13 @@
   <img src="https://global.media.stuxedo.com/logo.png" height="100" alt="Stuxedo Logo">
 </p>
 
-# Coming Soon Page
+# Instance Page
 
-A clean and simple coming soon page template for Stuxedo projects.
+A clean and simple instance landing page template for Stuxedo projects.
 
 ## Overview
 
-This repository contains a lightweight HTML page designed to let users know something exciting is on the way. It's perfect for building anticipation ahead of a new Stuxedo service or launch.
+This repository contains a lightweight HTML landing page designed to announce Stuxedo instances or services. It's perfect for maintaining audience engagement while your project is in development.
 
 ## Features
 
@@ -16,13 +16,13 @@ This repository contains a lightweight HTML page designed to let users know some
 - ⚡ Lightweight and fast-loading
 - 🎨 Ready to customize
 - 📱 Responsive design
-- 🚀 Deployed at [soonpage.stuxedo.net](https://soonpage.stuxedo.net)
+- 🚀 Easy deployment
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stuxedo/soonpage.git
+   git clone https://github.com/Stuxedo/instancepage.git
    ```
 
 2. Open `index.html` in your browser or deploy to your hosting provider
@@ -30,7 +30,7 @@ This repository contains a lightweight HTML page designed to let users know some
 ## Customization
 
 Edit the HTML files to:
-- Update the coming soon message
+- Update the instance message
 - Add your branding and logo
 - Customize colors and styling
 - Include email signup or social links
@@ -38,8 +38,6 @@ Edit the HTML files to:
 ## Deployment
 
 This project uses GitHub Pages and can be automatically deployed to your desired domain.
-
-The live version is deployed at [soonpage.stuxedo.net](https://soonpage.stuxedo.net).
 
 ## License
 
